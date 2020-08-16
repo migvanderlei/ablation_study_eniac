@@ -1,0 +1,6 @@
+{
+    "C": 1000,
+    "class_weight": "None",
+    "kernel": "poly",
+    "gamma": "auto"
+}

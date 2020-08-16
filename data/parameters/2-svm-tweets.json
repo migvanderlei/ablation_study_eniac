@@ -1,0 +1,6 @@
+{
+    "C": 10,
+    "class_weight": "balanced",
+    "kernel": "poly",
+    "gamma": "scale"
+}
